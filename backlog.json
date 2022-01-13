@@ -1,0 +1,38 @@
+{
+    "1": {
+        "Name": "lay",
+        "Path": "D:/Users/micae/Documents/Colorfilme/Testes/lay",
+        "Order": {
+            "10x15": 5,
+            "20x30": 7
+        },
+        "Type": "Amador"
+    },
+    "2": {
+        "Name": "jasmin",
+        "Path": "D:/Users/micae/Documents/Colorfilme/Testes/jasmin",
+        "Order": {
+            "10x15": 5,
+            "20x30": 7
+        },
+        "Type": "Amador"
+    },
+    "1": {
+        "Name": "tio",
+        "Path": "D:/Users/micae/Documents/Colorfilme/Testes/tio",
+        "Order": {
+            "10x15": 5,
+            "20x30": 7
+        },
+        "Type": "Amador"
+    },
+    "1": {
+        "Name": "keu2",
+        "Path": "D:/Users/micae/Documents/Colorfilme/Testes/keu2",
+        "Order": {
+            "10x15": 5,
+            "20x30": 7
+        },
+        "Type": "Amador"
+    }
+}
